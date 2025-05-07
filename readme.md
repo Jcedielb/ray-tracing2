@@ -2,7 +2,7 @@
 
 This tutorial demonstrates the basics of using ray tracing API in Diligent Engine.
 
-![](Animation_Large.gif)
+<img width="1091" alt="image" src="https://github.com/user-attachments/assets/e06abef6-a6bf-45c5-81fb-cca1eca3cc55" />
 
 In a traditional rendering pipeline triangles are processed by a number of programmable and
 fixed-function stages and are eventually projected and rasterized over the regular pixel grid.
